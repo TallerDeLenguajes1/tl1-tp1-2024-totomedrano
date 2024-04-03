@@ -7,3 +7,6 @@ Para crear un archivo .gitignore local, crea un archivo de texto y asígnale el 
 * se utiliza como una coincidencia comodín.
 / se usa para ignorar las rutas relativas al archivo .gitignore.
 # es usado para agregar comentarios
+
+
+3. g) se debe a que el puntero esta apuntando a la direccion de memoria de la variable. en el punto 4 se obtiene la direccion de memoria del puntero, no es igual ya que ese puntero esta ubicado en un lugar diferente de la memoria
